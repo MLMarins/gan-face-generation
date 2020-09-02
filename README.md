@@ -10,6 +10,7 @@ The project will be broken down into a series of tasks from loading in data to d
 
 The model is trained on the CelebFaces Attributes Dataset (CelebA):
 ![Alt text](../gan-face-generation/assets/processed_face_data.png?raw=true "Optional Title")
+<img src="./gan-face-generation/assets/processed_face_data.png" alt="Screenshot" style="max-width:100%;">
 
 
 The output is new human faces such as:
