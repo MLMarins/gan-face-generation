@@ -9,12 +9,10 @@ The project will be broken down into a series of tasks from loading in data to d
 
 
 The model is trained on the CelebFaces Attributes Dataset (CelebA):
-![Alt text](../gan-face-generation/assets/processed_face_data.png?raw=true "Optional Title")
-<img src="./gan-face-generation/assets/processed_face_data.png" alt="Screenshot" style="max-width:100%;">
-
+![Alt text](https://github.com/MLMarins/gan-face-generation/blob/master/assets/processed_face_data.png)
 
 The output is new human faces such as:
-![Alt text](../gan-face-generation/assets/output.png?raw=true "Optional Title")
+![Alt text](https://github.com/MLMarins/gan-face-generation/blob/master/assets/output.png)
 
 
 # Recommended next steps - improvements
